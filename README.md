@@ -10,5 +10,6 @@ https://medium.freecodecamp.org/how-to-build-react-apps-on-top-of-the-wordpress-
 - Webpack v2
 
 -----------------
-npm install
-npm start
+
+- npm install
+- npm start
