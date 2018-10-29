@@ -8,3 +8,7 @@ https://medium.freecodecamp.org/how-to-build-react-apps-on-top-of-the-wordpress-
 - React Router v4
 - Alt (for Flux implementation)
 - Webpack v2
+
+-----------------
+npm install
+npm start
